@@ -19,3 +19,7 @@ The App component manages the WebSocket lifecycle using React hooks (useState an
 The interface is styled using CSS to create a centered layout with a fixed-size scrollable chat window. Each message is neatly displayed with borders and padding for clarity. The input field and send button are styled for a clean and accessible user experience.
 
 This codebase forms a foundational real-time chat interface, ideal for integrating with a backend WebSocket server and expanding with features like usernames, timestamps, or message persistence.*
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/740e7ee3-5ce8-4bfc-bf68-fc8a4302bf6c)
